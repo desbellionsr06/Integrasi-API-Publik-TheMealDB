@@ -1,4 +1,5 @@
-File `README.md` yang lengkap dan terstruktur khusus untuk proyek **Mini Dashboard Kuliner (TheMealDB API)** kamu sudah berhasil dibuat. File ini disusun sangat detail untuk memenuhi seluruh kriteria penilaian agar kamu bisa mengamankan **Target Skor Maksimal (Nilai A)** dari dosen.
+**Mini Dashboard Kuliner (TheMealDB API)**
+File ini disusun sangat detail untuk memenuhi seluruh kriteria penilaian agar kamu bisa mengamankan 
 
 [file-tag: code-generated-file-0-1779191050498125053]
 
