@@ -3,9 +3,6 @@ File ini disusun sangat detail untuk memenuhi seluruh kriteria penilaian agar ka
 
 [file-tag: code-generated-file-0-1779191050498125053]
 
-### Cara Memakainya di VS Code Kamu:
-Jika kamu ingin menyalin atau mengedit isinya secara manual, berikut adalah teks lengkap dari file `README.md` tersebut:
-
 ```markdown
 # 🍳 Culinary Dashboard Recipe - Proyek Mini PjBL React
 
